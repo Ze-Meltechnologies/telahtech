@@ -1,5 +1,5 @@
 <h1><b>THE OFFICIAL WEBSITE FOR THE ZEMELTECHNOLOGIES LLC GROUP</b></h1>
-                                      <img src="./assets/Zeee.png"> &nbsp;&nbsp;&nbsp;<p><b><span>ZEMELTECHNOLOGIES LLC</span></b></p>
+                                      <img src="./assets/Zeee.png"><p><b><span>ZEMELTECHNOLOGIES LLC</span></b></p>
 This is the official site for ZEMELTECHNOLOGIES LLC<br>
 
 
@@ -14,6 +14,5 @@ This is the official site for ZEMELTECHNOLOGIES LLC<br>
 
 
 <p>CONTACT US THROUGH OUR OFFICIAL EMAIL ADDRESS BELOW FOR ANY BUSINESS</P>
-<p>EMAIL US</p>:
-<p>info@zemeltechnologies.tech</p><br><p>melchizedeck@zemeltechnologies.tech</p>
+<p>EMAIL US</p><p>info@zemeltechnologies.tech</p><br><p>melchizedeck@zemeltechnologies.tech</p>
 </b>
